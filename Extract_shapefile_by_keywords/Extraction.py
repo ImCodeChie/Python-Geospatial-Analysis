@@ -2,10 +2,10 @@ import os
 import shutil
 
 source_folders = [
-    r"\\pp-prc-01-scus\DDL\FieldBoundaries_not_delivered\Europe",
-    r"\\pp-prc-01-scus\DDL\FieldBoundaries\2023\Europe"
+    r"directory1",
+    r"directory2"
 ]
-destination_folder = r"C:\Users\lyi\Desktop\Clip_validation\Western Europe\ml"
+destination_folder = r"C:\Users\destinations"
 keywords = [
     "Kokpektinskiy", "Koksuskiy", "Taldyqorghan", "Terenozekskiy", "Zhaksynskiy",
     "Agsu", "Samaxı", "Enotaevskiy rayon", "Dubovskiy rayon", "Gorodishchenskiy rayon",
